@@ -75,12 +75,12 @@ Acesse o link acima e faça o download do arquivo `app-release.apk`.
 
 ### Passos
 
-# Clonar Conta
+# Repositorio
 git clone https://github.com/kadupoa/IP-Viewer.git
 
 cd IP-Viewer 
 
-# Instalar dependências
+# Instalar dependencias
 flutter pub get
 
 # Executar em modo debug
@@ -101,6 +101,7 @@ Gerenciamento de dependências: pubspec.yaml
 Acesso a rede e informações de conexão: pacotes Flutter (ex.: HTTP / network_info, etc.)
 
 Persistência local: SQLite / banco local para histórico de consultas
+
 
 
 
