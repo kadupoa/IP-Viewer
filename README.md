@@ -34,10 +34,10 @@ O código-fonte pode ser ajustado para outros cenários de uso (ex.: ferramentas
 - IP local (rede Wi-Fi)  
   Mostra o endereço IP interno atribuído pelo roteador.
 
-- Detalhes da conexão  
+- Detalhes da conexao:
   - Nome da rede (SSID)  
   - BSSID  
-  - Intensidade do sinal (quando disponível)  
+  - Intensidade do sinal (quando disponível)
   - Gateway  
   - Máscara de sub-rede  
 
@@ -101,6 +101,7 @@ Gerenciamento de dependências: pubspec.yaml
 Acesso a rede e informações de conexão: pacotes Flutter (ex.: HTTP / network_info, etc.)
 
 Persistência local: SQLite / banco local para histórico de consultas
+
 
 
 
