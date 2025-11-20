@@ -1,6 +1,8 @@
-# ip_viewer
+# IP Viewer
 
-A new Flutter project.
+Veja seu IP e informações da rede de forma rápida e fácil
+
+Exibe IP público, IP local e dados da interface de rede em tempo real.
 
 ## Getting Started
 
@@ -14,3 +16,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
